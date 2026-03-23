@@ -1,0 +1,88 @@
+# Jennifer Lopez & Pitbull – On The Floor (Radio Edit)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:05.78] J-Lo, ya tú sabes, no es más nada
+[00:09.79] It's a new generation
+[00:12.87] Mr. Worldwide
+[00:14.50] Of party people
+[00:15.93] Get on the floor, dale
+[00:17.32] Get on the floor (RedOne)
+[00:18.91] Let me introduce you to my party people in the club, huh
+[00:46.91] 
+[00:26.48] I'm loose (I'm loose)
+[00:27.60] And everybody knows I get off the chain
+[00:29.75] Baby, it's the truth (it's the truth)
+[00:31.45] I'm like Inception, I play with your brain
+[00:33.26] So I don't sleep or snooze (snooze)
+[00:50.76] 
+[00:35.25] I don't play no games so don-don-don't get it confused, no
+[00:38.78] 'Cause you will lose, yeah
+[00:40.72] Now, now pu-pu-pum-pu-pu-pu-pump it up
+[00:43.02] And back it up like a Tonka truck, dale
+[01:02.52] 
+[00:45.33] If you go hard, you gotta get on the floor (hey)
+[00:48.78] If you're a party freak, then step on the floor (yeah)
+[00:52.43] If you're an animal, then tear up the floor
+[00:55.40] Break a sweat on the floor, yeah, we work on the floor
+[01:00.22] Don't stop, keep it moving, put your drinks up (wo)
+[01:25.72] 
+[01:03.53] Pick your body up and drop it on the floor (hey)
+[01:07.38] Let the rhythm change your world on the floor
+[01:10.88] You know we're running sh- tonight on the floor
+[01:14.25] Brazil, Morocco, London to Ibiza
+[01:18.10] Straight to L.A., New York, Vegas to Africa (dale)
+[01:43.10] 
+[01:21.93] Dance the night away
+[01:23.87] Live your life and stay young on the floor
+[01:29.66] Dance the night away
+[01:31.35] Grab somebody, drink a little more
+[01:33.83] (Así mismo, así me gusta, así me gusta, así me gusta)
+[02:00.33] 
+[01:40.75] La-la-la-la-la-la-la-la-la-la-la-la-la-la
+[01:44.94] Tonight we gon' be it on the floor
+[01:47.60] La-la-la-la-la-la-la-la-la-la-la-la-la-la
+[01:52.26] Tonight we gon' be it on the floor
+[02:09.26] 
+[01:54.97] I know you got it, clap your hands on the floor (hey)
+[01:58.91] And keep on rocking, rock it up on the floor (yeah)
+[02:02.78] If you're a criminal, kill it on the floor
+[02:05.85] Steal it quick on the floor, on the floor
+[02:10.21] Don't stop, keep it moving, put your drinks up (woo)
+[02:36.21] 
+[02:13.63] It's getting ill, it's getting sick on the floor (hey)
+[02:17.41] We never quit, we never rest on the floor (yeah)
+[02:21.07] If I ain't wrong, we'll probably die on the floor
+[02:24.19] Brazil, Morocco, London to Ibiza
+[02:28.39] Straight to L.A., New York, Vegas to Africa (dale)
+[02:53.39] 
+[02:32.39] Dance the night away
+[02:33.92] Live your life and stay young on the floor
+[02:39.63] Dance the night away
+[02:41.58] Grab somebody, drink a little more
+[02:44.75] (Dale, así me gusta, así me gusta, así me gusta)
+[03:08.75] 
+[02:50.64] La-la-la-la-la-la-la-la-la-la-la-la-la-la
+[02:55.00] Tonight we gon' be it on the floor
+[02:58.09] La-la-la-la-la-la-la-la-la-la-la-la-la-la
+[03:02.42] Tonight we gon' be it on the floor
+[03:19.42] 
+[03:04.88] That badonkadonk is like a trunk full of bass on an old-school Chevy
+[03:07.75] Seven-trey donkey donk (yeah)
+[03:08.82] All I need is some vodka and some chonkey Coke
+[03:10.51] And watch, shit gon' get Donkey Konged
+[03:12.02] Baby, if you're ready for things to get heavy
+[03:14.09] I get on the floor and act a fool if you let me, dale
+[03:16.57] Don't believe me, just bet me
+[03:18.35] My name ain't Keith, but I see the way you sweat me
+[03:20.44] L.A., Miami, New York
+[03:22.21] Say no more, get on the floor
+[03:36.71] 
+[03:23.95] La-la-la-la-la-la-la-la-la-la-la-la-la-la
+[03:28.30] Tonight we gon' be it on the floor
+[03:31.28] La-la-la-la-la-la-la-la-la-la-la-la-la-la
+[03:35.66] Tonight we gon' be it on the floor
+[03:38.78] La-la-la-la-la-la-la-la-la-la-la-la-la-la
+[03:42.94] Tonight we gon' be it on the floor
+```
