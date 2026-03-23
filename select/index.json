@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "On The Floor (Radio Edit)",
+  "base_artist": "Jennifer Lopez & Pitbull",
+  "createdAt": "2026-03-23T17:52:58.639484Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "On The Floor (Radio Edit)",
+      "artist": "Jennifer Lopez",
+      "has_synced": true,
+      "path": "select/01_On_The_Floor_(Radio_Edit)_Jennifer_Lopez.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "On The Floor (Radio Edit)",
+      "artist": "Jennifer Lopez",
+      "has_synced": true,
+      "path": "select/02_On_The_Floor_(Radio_Edit)_Jennifer_Lopez.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "On The Floor [Radio Edit]",
+      "artist": "Jennifer Lopez",
+      "has_synced": true,
+      "path": "select/03_On_The_Floor_[Radio_Edit]_Jennifer_Lopez.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "On The Floor (Radio Edit)",
+      "artist": "Jennifer Lopez",
+      "has_synced": true,
+      "path": "select/04_On_The_Floor_(Radio_Edit)_Jennifer_Lopez.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "On The Floor - Radio Edit",
+      "artist": "Jennifer Lopez, Pitbull",
+      "has_synced": true,
+      "path": "select/05_On_The_Floor_-_Radio_Edit_Jennifer_Lopez,_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "On The Floor (Radio Edit) (feat. Pitbull)",
+      "artist": "JenniferLopezVEVO",
+      "has_synced": true,
+      "path": "select/06_On_The_Floor_(Radio_Edit)_(feat._Pitbull)_JenniferLopezVEVO.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "On The Floor (Radio Edit)",
+      "artist": "Pitbull",
+      "has_synced": true,
+      "path": "select/07_On_The_Floor_(Radio_Edit)_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "On The Floor (Radio Edit)",
+      "artist": "Jennifer Lopez • Pitbull",
+      "has_synced": true,
+      "path": "select/08_On_The_Floor_(Radio_Edit)_Jennifer_Lopez_•_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "On The Floor - Radio Edit",
+      "artist": "Jennifer Lopez,Pitbull",
+      "has_synced": true,
+      "path": "select/09_On_The_Floor_-_Radio_Edit_Jennifer_Lopez,Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "On The Floor - Radio Edit",
+      "artist": "Jennifer Lopez",
+      "has_synced": true,
+      "path": "select/10_On_The_Floor_-_Radio_Edit_Jennifer_Lopez.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "On The Floor (Radio Edit)",
+      "artist": "Jennifer Lopez",
+      "has_synced": true,
+      "path": "select/11_On_The_Floor_(Radio_Edit)_Jennifer_Lopez.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "On the Floor (Radio Edit) (No Rap)",
+      "artist": "Jennifer Lopez",
+      "has_synced": false,
+      "path": "select/12_On_the_Floor_(Radio_Edit)_(No_Rap)_Jennifer_Lopez.txt"
+    }
+  ]
+}
